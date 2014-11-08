@@ -2,8 +2,11 @@ Aprender
 ========
 
 Este repositório está sendo criado para testes, 
-com a finalidade de aprender a usar o git para uso em programação php, python, javascript, jquery.
+com a finalidade de aprender a usar o git para uso em programação:
 
-Também pretendo usar para guardar scripts de linux.
+ PHP, Python, Javascript, Jquery, C#, C, Java, MeteorJS , Web2Py
 
+
+
+Vou colocar aqui meus arquivos de C da faculdade para receber sugestões de melhorias, desde já obrigado que colaborarem.
 

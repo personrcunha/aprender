@@ -12,12 +12,13 @@ depois de instalado gerei minhas chaves ssh:
 	ele pede um nome para a chave e a senha com confirmação
 	fechei o git-bash
 	
-	va no pesquisar do menu iniciar digite cmd
+	Va no pesquisar do menu iniciar digite cmd
 	ai escreva notepad e aperte tab até aparecer o nome da chave que criou com extensão pub
 	
 	selecione todo o conteudo e ctrl+c para copiar para area de trabalho
 	depois fui ao site www.github.com criei uma conta e fui em configurações, ssh-keys, add keys 
-	dei um nome e colei (ctrl+v) a chave que havia copiado anteriormente,adicionei e pronto para o uso a partir do pc.
+	dei um nome e colei (ctrl+v) a chave que havia copiado anteriormente,adicionei e pronto para
+	o uso a partir do pc.
 	
 	
 

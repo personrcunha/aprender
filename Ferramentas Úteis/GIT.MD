@@ -16,7 +16,8 @@ depois de instalado gerei minhas chaves ssh:
 	ai escreva notepad e aperte tab até aparecer o nome da chave que criou com extensão pub
 	
 	selecione todo o conteudo e ctrl+c para copiar para area de trabalho
-	depois fui ao site www.github.com criei uma conta e fui em configurações, ssh-keys, add keys dei um nome e colei (ctrl+v) a chave que havia copiado anteriormente,adicionei e pronto para o uso a partir do pc.
+	depois fui ao site www.github.com criei uma conta e fui em configurações, ssh-keys, add keys 
+	dei um nome e colei (ctrl+v) a chave que havia copiado anteriormente,adicionei e pronto para o uso a partir do pc.
 	
 	
 
@@ -30,7 +31,7 @@ Fui ao cmd do windows criei uma pasta na minha maquina para este repositório que
 
 Depois que estava dentro desta pasta c:\aprender , eu dei o comando:
 
- git init # para dizer que eu ia iniciar um repositório aqui
+	git init # para dizer que eu ia iniciar um repositório aqui
  
  
 Depois dei um git remote add https://github.com/personrcunha/aprender.git (eata url aqui é o repositorio que copiei anteriormente, para colar no cmd, cliquei na barra de titulos com botao direito do mouse, fui em editar depois em colar.
@@ -39,15 +40,15 @@ depois dei um git pull aprender # para pegar as coisas do repositorio "caso tive
 
 Comecei a editar, depois de terminada a edição eu dei o comando
 
-git add .
+	git add .
 
 depois o comando
 
-git commit -m "Aqui eu coloco o comentario que eu quero que apareça no meu commit"
+	git commit -m "Aqui eu coloco o comentario que eu quero que apareça no meu commit"
 
 depois o comando 
 
-git push aprender  # onde aprender é o nome do repositório criado.
+	git push aprender  # onde aprender é o nome do repositório criado.
 
 
 

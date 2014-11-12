@@ -1,4 +1,0 @@
-C Ansi
-========
-
-FADERGS

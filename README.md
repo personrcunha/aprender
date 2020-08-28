@@ -13,5 +13,3 @@ Vou colocar aqui meus arquivos de C da faculdade para receber sugestões de melh
 ---
 
 Quando possível ajudem a aperfeiçoar meu código.
-
-[![Throughput Graph](https://graphs.waffle.io/personrcunha/aprender/throughput.svg)](https://waffle.io/personrcunha/aprender/metrics
